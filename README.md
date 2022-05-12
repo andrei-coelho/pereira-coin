@@ -1,2 +1,5 @@
 # pereira-coin
-My first crypto coin
+
+<img src="logo-pereira-coin.png">
+
+My first Token
